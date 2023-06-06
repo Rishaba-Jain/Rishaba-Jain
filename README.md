@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rishaba-Jain
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Android Projects
 - 📫 Email: babujain86@gmail.com
 
 <!---
